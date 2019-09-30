@@ -7,14 +7,14 @@ import About from '../pages/About';
 class Routes extends Component {
   render() {
     return (
-      <Router history={history} basename={'/react-redix-test-build'} >
+      <Router history={history} >
         <div>
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
         </div>
         <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/about' component={About} />
+          <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
+          <Route path={process.env.PUBLIC_URL + '/about'} component={About} />
           {/* <Redirect  component={About} /> */}
         </Switch>
       </Router>
