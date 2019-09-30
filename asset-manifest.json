@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-redix-test-build/static/css/main.36497136.chunk.css",
-    "main.js": "/react-redix-test-build/static/js/main.45fcd6dc.chunk.js",
-    "main.js.map": "/react-redix-test-build/static/js/main.45fcd6dc.chunk.js.map",
-    "runtime-main.js": "/react-redix-test-build/static/js/runtime-main.03b282fa.js",
-    "runtime-main.js.map": "/react-redix-test-build/static/js/runtime-main.03b282fa.js.map",
-    "static/js/2.44ff9b0b.chunk.js": "/react-redix-test-build/static/js/2.44ff9b0b.chunk.js",
-    "static/js/2.44ff9b0b.chunk.js.map": "/react-redix-test-build/static/js/2.44ff9b0b.chunk.js.map",
-    "index.html": "/react-redix-test-build/index.html",
-    "precache-manifest.fb115643698e73f7da9c5c4a42bddde0.js": "/react-redix-test-build/precache-manifest.fb115643698e73f7da9c5c4a42bddde0.js",
-    "service-worker.js": "/react-redix-test-build/service-worker.js",
-    "static/css/main.36497136.chunk.css.map": "/react-redix-test-build/static/css/main.36497136.chunk.css.map"
+    "main.css": "/react-redux-test/static/css/main.36497136.chunk.css",
+    "main.js": "/react-redux-test/static/js/main.45fcd6dc.chunk.js",
+    "main.js.map": "/react-redux-test/static/js/main.45fcd6dc.chunk.js.map",
+    "runtime-main.js": "/react-redux-test/static/js/runtime-main.b720e1b4.js",
+    "runtime-main.js.map": "/react-redux-test/static/js/runtime-main.b720e1b4.js.map",
+    "static/js/2.44ff9b0b.chunk.js": "/react-redux-test/static/js/2.44ff9b0b.chunk.js",
+    "static/js/2.44ff9b0b.chunk.js.map": "/react-redux-test/static/js/2.44ff9b0b.chunk.js.map",
+    "index.html": "/react-redux-test/index.html",
+    "precache-manifest.18e7eb604e3f20848f16b12f72f7c1f0.js": "/react-redux-test/precache-manifest.18e7eb604e3f20848f16b12f72f7c1f0.js",
+    "service-worker.js": "/react-redux-test/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/react-redux-test/static/css/main.36497136.chunk.css.map"
   }
 }
