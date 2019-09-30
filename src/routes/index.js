@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Switch, Route, Link, Redirect } from 'react-router-dom';
+import { Router, Switch, Route, Link } from 'react-router-dom';
 import history from '../utils/history'
 import Home from '../pages/Home';
 import About from '../pages/About';
@@ -16,6 +16,8 @@ class Routes extends Component {
           <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
           <Route path={process.env.PUBLIC_URL + '/about'} component={About} />
           {/* <Redirect  component={About} /> */}
+          {console.log(process.env.PUBLIC_URL)}
+          
         </Switch>
       </Router>
     );
