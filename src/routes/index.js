@@ -7,7 +7,7 @@ import About from '../pages/About';
 class Routes extends Component {
   render() {
     return (
-      <Router history={history}>
+      <Router history={history} basename={'/react-redix-test-build'} >
         <div>
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
