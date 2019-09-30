@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redix-test-build/static/css/main.36497136.chunk.css",
+    "main.js": "/react-redix-test-build/static/js/main.d9898c94.chunk.js",
+    "main.js.map": "/react-redix-test-build/static/js/main.d9898c94.chunk.js.map",
+    "runtime-main.js": "/react-redix-test-build/static/js/runtime-main.03b282fa.js",
+    "runtime-main.js.map": "/react-redix-test-build/static/js/runtime-main.03b282fa.js.map",
+    "static/js/2.44ff9b0b.chunk.js": "/react-redix-test-build/static/js/2.44ff9b0b.chunk.js",
+    "static/js/2.44ff9b0b.chunk.js.map": "/react-redix-test-build/static/js/2.44ff9b0b.chunk.js.map",
+    "index.html": "/react-redix-test-build/index.html",
+    "precache-manifest.36445081bf3b93c417cb6676681f5ae3.js": "/react-redix-test-build/precache-manifest.36445081bf3b93c417cb6676681f5ae3.js",
+    "service-worker.js": "/react-redix-test-build/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/react-redix-test-build/static/css/main.36497136.chunk.css.map"
+  }
+}
